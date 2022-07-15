@@ -1,0 +1,44 @@
+body {
+  padding-left: 35%;
+  background-color: rgb(202, 224, 224);
+}
+
+
+button {
+  margin-top: 2px;
+  margin-left: 10px;
+  line-height: 20px;
+  /* font-weight: bold; */
+  padding: 0 4px;
+  background: rgb(241, 235, 234);
+  border-radius: 5px;
+}
+
+#delete {
+  background-color: rgb(5, 16, 16);
+  color: aliceblue;
+  border-radius: 15px;
+}
+
+h2 {
+
+  margin-left: 5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+li {
+  margin-top: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(17, 16, 15);
+}
+
+label {
+  margin-right: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input[type="text"] {
+  background-color: rgb(251, 241, 241);
+  color: rgb(16, 17, 17);
+}
